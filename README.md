@@ -1,0 +1,1 @@
+A simple little neural network I've been working on. This is an implementation of a RL algorithm.
